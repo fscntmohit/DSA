@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/fscntmohit/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/fscntmohit/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -25,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/fscntmohit/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/fscntmohit/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/fscntmohit/DSA/tree/master/2396-strictly-palindromic-number) |
