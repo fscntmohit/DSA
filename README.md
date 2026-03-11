@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/fscntmohit/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1009-complement-of-base-10-integer](https://github.com/fscntmohit/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
