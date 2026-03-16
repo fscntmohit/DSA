@@ -62,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/fscntmohit/DSA/tree/main/0175-combine-two-tables/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/fscntmohit/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
