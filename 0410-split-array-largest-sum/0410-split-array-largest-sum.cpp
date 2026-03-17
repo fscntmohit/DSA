@@ -38,7 +38,7 @@ public:
             sum += nums[i];
     // Binary Search Range
     // Minimum possible answer = largest book
-        int s = *max_element(nums.begin(), nums.end());
+        int s = 0;
         int e = sum;
 
         int ans = -1;
