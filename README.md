@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/fscntmohit/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/fscntmohit/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/fscntmohit/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/fscntmohit/DSA/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/fscntmohit/DSA/tree/main/0941-valid-mountain-array/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/fscntmohit/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/fscntmohit/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/fscntmohit/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/fscntmohit/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/fscntmohit/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 | Problem Name | Difficulty |
