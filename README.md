@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/fscntmohit/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/fscntmohit/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/fscntmohit/DSA/tree/main/0896-monotonic-array/) | Easy |
+| [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/fscntmohit/DSA/tree/main/0941-valid-mountain-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/fscntmohit/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/fscntmohit/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/fscntmohit/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/fscntmohit/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
@@ -82,4 +84,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/fscntmohit/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
