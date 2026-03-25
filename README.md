@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0326-power-of-three](https://github.com/fscntmohit/DSA/tree/main/0326-power-of-three/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/fscntmohit/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/fscntmohit/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/fscntmohit/DSA/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
