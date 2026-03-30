@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/fscntmohit/DSA/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/fscntmohit/DSA/tree/main/0941-valid-mountain-array/) | Easy |
+| [1550-three-consecutive-odds](https://github.com/fscntmohit/DSA/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/fscntmohit/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/fscntmohit/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/fscntmohit/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
