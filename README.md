@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/fscntmohit/DSA/tree/main/0016-3sum-closest/) | Medium |
+| [0242-valid-anagram](https://github.com/fscntmohit/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/fscntmohit/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -76,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/fscntmohit/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/fscntmohit/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/fscntmohit/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/fscntmohit/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/fscntmohit/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Database
 | Problem Name | Difficulty |
