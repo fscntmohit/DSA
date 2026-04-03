@@ -4,20 +4,19 @@ public:
         if (s.length() != t.length()) {
             return false;
         }
-
-        unordered_map<char, int> counter;
-
-        for (char ch : s) {
-            counter[ch] = counter[ch] + 1;
+        
+        vector<int> freq(26, 0);
+        for (int i = 0; i < s.length(); i++) {
+            freq[s[i] - 'a']++;
+            freq[t[i] - 'a']--;
         }
-
-        for (char ch : t) {
-            if (counter.find(ch) == counter.end() || counter[ch] == 0) {
+        
+        for (int i = 0; i < freq.size(); i++) {
+            if (freq[i] != 0) {
                 return false;
             }
-            counter[ch] = counter[ch] - 1;
         }
-
-        return true;        
+        
+        return true;
     }
 };
