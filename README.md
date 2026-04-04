@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/fscntmohit/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0326-power-of-three](https://github.com/fscntmohit/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/fscntmohit/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
