@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/fscntmohit/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/fscntmohit/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/fscntmohit/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/fscntmohit/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3643-flip-square-submatrix-vertically](https://github.com/fscntmohit/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Brainteaser
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/fscntmohit/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/fscntmohit/DSA/tree/main/0344-reverse-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/fscntmohit/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/fscntmohit/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/fscntmohit/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Hash Table
