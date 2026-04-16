@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/fscntmohit/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/fscntmohit/DSA/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/fscntmohit/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/fscntmohit/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/fscntmohit/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/fscntmohit/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/fscntmohit/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/fscntmohit/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fscntmohit/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -168,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/fscntmohit/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/fscntmohit/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
