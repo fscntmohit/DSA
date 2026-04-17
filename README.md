@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/fscntmohit/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/fscntmohit/DSA/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/fscntmohit/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/fscntmohit/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/fscntmohit/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/fscntmohit/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/fscntmohit/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/fscntmohit/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/fscntmohit/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/fscntmohit/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Heap (Priority Queue)
