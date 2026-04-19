@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/fscntmohit/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/fscntmohit/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/fscntmohit/DSA/tree/master/2396-strictly-palindromic-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/fscntmohit/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
