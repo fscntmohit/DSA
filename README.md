@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/fscntmohit/DSA/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/fscntmohit/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/fscntmohit/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/fscntmohit/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3151-special-array-i](https://github.com/fscntmohit/DSA/tree/main/3151-special-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/fscntmohit/DSA/tree/main/3379-transformed-array/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/fscntmohit/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/fscntmohit/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/fscntmohit/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
