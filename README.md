@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/fscntmohit/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/fscntmohit/DSA/tree/main/0202-happy-number/) | Easy |
 | [0326-power-of-three](https://github.com/fscntmohit/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/fscntmohit/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/fscntmohit/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/fscntmohit/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/fscntmohit/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/fscntmohit/DSA/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/fscntmohit/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/fscntmohit/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/fscntmohit/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/fscntmohit/DSA/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/fscntmohit/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fscntmohit/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
