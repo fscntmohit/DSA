@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/fscntmohit/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/fscntmohit/DSA/tree/main/0202-happy-number/) | Easy |
+| [0263-ugly-number](https://github.com/fscntmohit/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/fscntmohit/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/fscntmohit/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/fscntmohit/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
