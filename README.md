@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/fscntmohit/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/fscntmohit/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/fscntmohit/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/fscntmohit/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/fscntmohit/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/fscntmohit/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/fscntmohit/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/fscntmohit/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
