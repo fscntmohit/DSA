@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/fscntmohit/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0070-climbing-stairs](https://github.com/fscntmohit/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/fscntmohit/DSA/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/fscntmohit/DSA/tree/main/0263-ugly-number/) | Easy |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/fscntmohit/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/fscntmohit/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/fscntmohit/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/fscntmohit/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Greedy
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/fscntmohit/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/fscntmohit/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/fscntmohit/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
