@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/fscntmohit/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/fscntmohit/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/fscntmohit/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0796-rotate-string](https://github.com/fscntmohit/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/fscntmohit/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/fscntmohit/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/fscntmohit/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/fscntmohit/DSA/tree/main/0070-climbing-stairs/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/fscntmohit/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
