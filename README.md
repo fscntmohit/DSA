@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fscntmohit/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/fscntmohit/DSA/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/fscntmohit/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/fscntmohit/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/fscntmohit/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/fscntmohit/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/fscntmohit/DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/fscntmohit/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0048-rotate-image](https://github.com/fscntmohit/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/fscntmohit/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/fscntmohit/DSA/tree/main/0202-happy-number/) | Easy |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/fscntmohit/DSA/tree/main/0048-rotate-image/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/fscntmohit/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
