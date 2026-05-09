@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/fscntmohit/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/fscntmohit/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/fscntmohit/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
