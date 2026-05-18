@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/fscntmohit/DSA/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/fscntmohit/DSA/tree/main/0941-valid-mountain-array/) | Easy |
+| [1528-shuffle-string](https://github.com/fscntmohit/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/fscntmohit/DSA/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/fscntmohit/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/fscntmohit/DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/fscntmohit/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/fscntmohit/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0796-rotate-string](https://github.com/fscntmohit/DSA/tree/main/0796-rotate-string/) | Easy |
+| [1528-shuffle-string](https://github.com/fscntmohit/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/fscntmohit/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/fscntmohit/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/fscntmohit/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
