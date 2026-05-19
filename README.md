@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/fscntmohit/DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/fscntmohit/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/fscntmohit/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2540-minimum-common-value](https://github.com/fscntmohit/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/fscntmohit/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3151-special-array-i](https://github.com/fscntmohit/DSA/tree/main/3151-special-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/fscntmohit/DSA/tree/main/3379-transformed-array/) | Easy |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/fscntmohit/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/fscntmohit/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/fscntmohit/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2540-minimum-common-value](https://github.com/fscntmohit/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/fscntmohit/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/fscntmohit/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/fscntmohit/DSA/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/fscntmohit/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/fscntmohit/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/fscntmohit/DSA/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/fscntmohit/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2540-minimum-common-value](https://github.com/fscntmohit/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fscntmohit/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
