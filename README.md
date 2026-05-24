@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/fscntmohit/DSA/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/fscntmohit/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/fscntmohit/DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/fscntmohit/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/fscntmohit/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/fscntmohit/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2540-minimum-common-value](https://github.com/fscntmohit/DSA/tree/main/2540-minimum-common-value/) | Easy |
