@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/fscntmohit/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/fscntmohit/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/fscntmohit/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/fscntmohit/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/fscntmohit/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/fscntmohit/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3151-special-array-i](https://github.com/fscntmohit/DSA/tree/main/3151-special-array-i/) | Easy |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/fscntmohit/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/fscntmohit/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/fscntmohit/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/fscntmohit/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 | Problem Name | Difficulty |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/fscntmohit/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/fscntmohit/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/fscntmohit/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
