@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1603-design-parking-system](https://github.com/fscntmohit/DSA/tree/main/1603-design-parking-system/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/fscntmohit/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1603-design-parking-system](https://github.com/fscntmohit/DSA/tree/main/1603-design-parking-system/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/fscntmohit/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3379-transformed-array](https://github.com/fscntmohit/DSA/tree/main/3379-transformed-array/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/fscntmohit/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/fscntmohit/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/fscntmohit/DSA/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
