@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/fscntmohit/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fscntmohit/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/fscntmohit/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/fscntmohit/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/fscntmohit/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/fscntmohit/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/fscntmohit/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/fscntmohit/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/fscntmohit/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/fscntmohit/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/fscntmohit/DSA/tree/main/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/fscntmohit/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/fscntmohit/DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Greedy
