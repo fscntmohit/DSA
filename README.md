@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/fscntmohit/DSA/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/fscntmohit/DSA/tree/main/0941-valid-mountain-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/fscntmohit/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/fscntmohit/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/fscntmohit/DSA/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/fscntmohit/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/fscntmohit/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/fscntmohit/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/fscntmohit/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/fscntmohit/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/fscntmohit/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/fscntmohit/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/fscntmohit/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/fscntmohit/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/fscntmohit/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
